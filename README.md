@@ -87,10 +87,10 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add link]
-- 🌍 Portfolio: [Add link]
-- 📧 Email: [Add email]
-
+- 💼 LinkedIn: [https://www.linkedin.com/in/raunak-raj-2771b11a0]
+- 🌍 Portfolio: [https://raunak.nexusbihar.com/]
+- 🌍 Website: [https://www.nexusbihar.com/]
+  
 ---
 
 ## 💡 Philosophy
