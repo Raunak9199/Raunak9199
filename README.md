@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raunak9199&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak9199&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raunak9199&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak9199&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
