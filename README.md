@@ -21,7 +21,7 @@
 `Flutter` `Jetpack Compose` `Kotlin` `KMP` `Android SDK`
 
 ### 🧠 Architecture
-`Clean Architecture` `BLoC` `StateFlow` `Flow` `HydratedBloc`
+`Clean Architecture` `GetX` `BLoC` `Provider` `StateFlow` `Flow` `HydratedBloc`
 
 ### 🌐 Backend
 `Node.js` `MongoDB` `Supabase` `Firebase` `REST APIs`
