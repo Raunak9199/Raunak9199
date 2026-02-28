@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=Raunak%20👑&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Mobile%20Engineer%20|%20Flutter%20|%20Jetpack%20Compose%20|%20KMP&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=Raunak%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Mobile%20Engineer%20|%20Flutter%20|%20Jetpack%20Compose%20|%20KMP&descAlignY=60&descSize=18" />
 </p>
 
 ---
